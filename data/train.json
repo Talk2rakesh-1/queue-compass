@@ -1,0 +1,98 @@
+[
+  {
+    "label": "billing",
+    "text": "Invoice total includes a duplicate charge"
+  },
+  {
+    "label": "billing",
+    "text": "Refund payment for cancelled subscription"
+  },
+  {
+    "label": "billing",
+    "text": "Credit card payment failed during renewal"
+  },
+  {
+    "label": "billing",
+    "text": "Update billing address on invoice"
+  },
+  {
+    "label": "billing",
+    "text": "Subscription price charged twice this month"
+  },
+  {
+    "label": "billing",
+    "text": "Need receipt for payment and tax"
+  },
+  {
+    "label": "billing",
+    "text": "Cancel subscription and refund charge"
+  },
+  {
+    "label": "billing",
+    "text": "Invoice tax amount is incorrect"
+  },
+  {
+    "label": "access",
+    "text": "Password reset email never arrived"
+  },
+  {
+    "label": "access",
+    "text": "Cannot login account locked after attempts"
+  },
+  {
+    "label": "access",
+    "text": "Two factor authentication code rejected"
+  },
+  {
+    "label": "access",
+    "text": "Reset password to unlock account"
+  },
+  {
+    "label": "access",
+    "text": "Login session expired and authentication fails"
+  },
+  {
+    "label": "access",
+    "text": "Account invitation email link expired"
+  },
+  {
+    "label": "access",
+    "text": "Change login email and password"
+  },
+  {
+    "label": "access",
+    "text": "Cannot access account with authentication code"
+  },
+  {
+    "label": "reliability",
+    "text": "API request timeout and server error"
+  },
+  {
+    "label": "reliability",
+    "text": "Service unavailable with gateway error"
+  },
+  {
+    "label": "reliability",
+    "text": "Dashboard loading slow and requests timeout"
+  },
+  {
+    "label": "reliability",
+    "text": "Server outage causing failed API requests"
+  },
+  {
+    "label": "reliability",
+    "text": "Database connection error during request"
+  },
+  {
+    "label": "reliability",
+    "text": "High latency and slow response from service"
+  },
+  {
+    "label": "reliability",
+    "text": "Gateway timeout when loading dashboard"
+  },
+  {
+    "label": "reliability",
+    "text": "Service returns error after server restart"
+  }
+]

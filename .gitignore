@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+__pycache__/
+*.pyc
+.coverage
+.venv/
+.ruff_cache/
+.env
+*.xcuserstate
+xcuserdata/

@@ -1,0 +1,66 @@
+[
+  {
+    "label": "billing",
+    "text": "Please refund the duplicate subscription payment"
+  },
+  {
+    "label": "billing",
+    "text": "Tax on receipt differs from invoice"
+  },
+  {
+    "label": "billing",
+    "text": "Card charge failed on renewal"
+  },
+  {
+    "label": "billing",
+    "text": "Billing address needs an update"
+  },
+  {
+    "label": "access",
+    "text": "Account locked cannot login"
+  },
+  {
+    "label": "access",
+    "text": "Password reset link has expired"
+  },
+  {
+    "label": "access",
+    "text": "Authentication code rejected again"
+  },
+  {
+    "label": "access",
+    "text": "Invitation email missing for account"
+  },
+  {
+    "label": "reliability",
+    "text": "API gateway timeout on request"
+  },
+  {
+    "label": "reliability",
+    "text": "Dashboard is slow with high latency"
+  },
+  {
+    "label": "reliability",
+    "text": "Database connection failed server error"
+  },
+  {
+    "label": "reliability",
+    "text": "Service unavailable after restart"
+  },
+  {
+    "label": "unknown",
+    "text": "What is your office lunch menu"
+  },
+  {
+    "label": "unknown",
+    "text": "Translate this poem into French"
+  },
+  {
+    "label": "unknown",
+    "text": "Purple elephants dance beneath stars"
+  },
+  {
+    "label": "unknown",
+    "text": "I want a new feature for drawing maps"
+  }
+]

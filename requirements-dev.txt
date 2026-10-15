@@ -1,0 +1,9 @@
+ruff==0.14.0
+bandit==1.8.6
+pip-audit==2.9.0
+coverage[toml]==7.10.7
+# Security floors for transitive development-tool dependencies.
+msgpack>=1.2.1
+filelock>=3.20.3
+requests>=2.33.0
+urllib3>=2.8.0
